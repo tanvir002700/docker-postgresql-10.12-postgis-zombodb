@@ -1,4 +1,4 @@
-# docker-postgresql-10.12-postigs-zombodb
+# docker-postgresql-10.12-postgis-zombodb
 
 This Docker image support postgresql with postgis and zombodb.
 
